@@ -9,8 +9,8 @@
 ## 🛠 Tech Stack & Skills
 
 🔹 **Languages:** Python, Java, JavaScript, SQL, C, C++
-🔹 **Frameworks & Tools:** Next.js, Node.js, Spring Boot, PostgreSQL, Docker, Kubernetes  
-🔹 **Cloud & DevOps:**  CI/CD, GitHub Actions  
+🔹 **Frameworks & Tools:** Next.js, Node.js, Spring Boot, PostgreSQL
+🔹 **Cloud & DevOps:**  CI/CD, GitHub Actions , Docker
 🔹 **AI & Data Science:** Pandas, NumPy, Scikit-learn, Computer Vision 
 🔹 **Other Interests:** System Design, Open Source
 
@@ -44,7 +44,7 @@ Enhancing features of pgAgent in collaboration with IITM Pravartak Technologies.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DKS2301&layout=compact&theme=radical)
 
 🚀 **Active Streak:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKS2301&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKS2301)
 
 ---
 
