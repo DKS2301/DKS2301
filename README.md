@@ -6,6 +6,7 @@
 - 💻 Passionate about DevOps, full stack development, and blockchain technologies.
 - 🌱 Currently exploring Data Science and Machine Learning.
 - 🤝 Open to collaborations on innovative projects.
+
   
 ## 🛠️ Tech Stack
 
@@ -20,17 +21,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DKS2301&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKS2301&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DKS2301&theme=radical)
 
 ## 📚 Featured Projects
 
@@ -59,6 +49,19 @@ Enhancing features of pgAgent in collaboration with IITM Pravartak Technologies.
 
 [![Hartree Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=DKS2301&repo=3D-Car-Simulation&theme=radical)](https://github.com/DKS2301/3D-Car-Simulation)
 
+## 📈 GitHub Stats
+
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DKS2301&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKS2301&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DKS2301&theme=radical)
+
+
 ## 🌐 Let's Connect!
 
-📫 Reach me at [![Mail](https://img.shields.io/badge/LinkedIn-Deepak-blue?style=for-the-badge&logo=gmail)](mailto:deepaks11a7@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-Deepak-blue?style=for-the-badge&logo=gmail)](mailto:deepaks11a7@gmail.com)
