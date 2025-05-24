@@ -1,5 +1,5 @@
 
-# Deepak S | Tech Explorer & Innovator  
+# Deepak S | Tech Explorer & Innovator
 
 
 **Welcome to my GitHub!** 👋  
@@ -106,5 +106,8 @@ I'm Deepak, a passionate developer exploring the realms of **AI, Data Science, D
 <p align="center">
   <a href="mailto:deepaks11a7@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://portfolio-3d-lac.vercel.app/">
+<img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=cloudflare&logoColor=00FFFF" />
   </a>
 </p>
